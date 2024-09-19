@@ -86,6 +86,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Microsoft_Office-217346?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
 
+### Blueprint Engineering Software and Schematics
+<img src="https://img.shields.io/badge/-AutoCAD MEP 3D-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-Draw.io-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
+
 ### Mobile Devices
 <img src="https://img.shields.io/badge/-iPhone-000000?style=for-the-badge&logo=Apple&logoColor=white" />
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
@@ -98,10 +102,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Ethernet_CAT_5_to_8_Install-FFCC00?style=for-the-badge&logo=Electrical&logoColor=black" />
 <img src="https://img.shields.io/badge/-Surge_Arrestors_MTS_ATS-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
 
-
-### Blueprint Engineering Software and Schematics
-<img src="https://img.shields.io/badge/-AutoCAD MEP 3D-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
-<img src="https://img.shields.io/badge/-Draw.io-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
 
 
 
