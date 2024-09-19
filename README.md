@@ -186,7 +186,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
   
 <h2> 📃Honor Society Membership</h2>
-  <img src="https://img.shields.io/badge/-Foundations_of_Leadership_Certificate-000000?style=for-the-badge&logo=The%20National%20Society%20of%20Leadership%20and%20Success&logoColor=white" />
+  <img src="https://img.shields.io/badge/-National Society_of_Leadership_(NSLS)_Member-000000?style=for-the-badge&logo=The%20National%20Society%20of%20Leadership%20and%20Success&logoColor=white" />
 
 
     
