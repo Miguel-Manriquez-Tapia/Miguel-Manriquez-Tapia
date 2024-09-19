@@ -128,11 +128,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Creating Engineering Blueprints (AutoCAD MEP 3D)](https://www.youtube.com)
 
 <h2> 📃Degrees</h2>
-  - <img src="https://img.shields.io/badge/-Bachelors_of_Science_Cybersecurity_and_Information_Assurance-4B9CD3?style=for-the-badge&logo=Western%20Governors%20University&logoColor=white" />
+  
+  - [BSCSIA] ![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/Screenshot%202024-09-18%20185333.png)
+  - [MBA] Coming Soon 2024-2025..
+
 
 <h2> 📃Certifications</h2>
 
-  - <img src="https://img.shields.io/badge/-Bachelors_of_Science_Cybersecurity_and_Information_Assurance-4B9CD3?style=for-the-badge&logo=Western%20Governors%20University&logoColor=white" />
   - <img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-FF6600?style=for-the-badge&logo=CompTIA&logoColor=white" />
   - <img src="https://img.shields.io/badge/-CompTIA_Cybersecurity_Analyst_CySA%2B-00A3E0?style=for-the-badge&logo=CompTIA&logoColor=white" />
   - <img src="https://img.shields.io/badge/-CompTIA_Network_Security_Professional-FF9900?style=for-the-badge&logo=CompTIA&logoColor=white" />
