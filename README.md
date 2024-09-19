@@ -26,22 +26,55 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-4B275F?&style=for-the-badge&logo=Nmap&logoColor=white" />
 
+### Post Incident Analysis
+ <img src="https://img.shields.io/badge/-Autopsy_Forensic_Tool-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAD////o6OiDg4NtbW3u7u7IyMj39/fW1tb5+fnz8/NISEjR0dGsrKx8fHzm5uaVlZVvRxgJAAAACXBIWXMAAABIAAAASABGyWs+AAAAMUlEQVQYlWNgwAL6/2HlZgZGKiAuDFXR2di7duB2YsiMUw5JAoLkoApRYMDANNAAGmXBsAebjC2kAAAAASUVORK5CYII=&logoColor=white" />
+<div>
+  
+
+
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 
 </div>
 
+### Operating Systems
+<img src="https://img.shields.io/badge/-Microsoft_Server-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali_Linux-5A2D81?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-AlmaLinux-003F6C?style=for-the-badge&logo=AlmaLinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux_Mint-87CF3F?style=for-the-badge&logo=LinuxMint&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-macOS_Sonoma-000000?style=for-the-badge&logo=Apple&logoColor=white" />
+
+
+### Virualization Products
+<img src="https://img.shields.io/badge/-Oracle_VM-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-VMware_Workstation_17_Player-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+
+
+
+
+
+### Identity and Access Management (IAM)
+<img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+### Search and Analytics or Log Management (SEIM)
+<img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+### Software Engineering IDE
+<img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=JetBrains&logoColor=white" />
+
+### Pentest
+<img src="https://img.shields.io/badge/-OWASP_ZAP-7C4DFF?style=for-the-badge&logo=OWASP&logoColor=white" />
 
 
 
