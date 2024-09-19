@@ -164,8 +164,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     
 <h2> 🏆 Awards</h2>
 
-  - [IT Written Capstone Excellence Award](https://www.youtube.com)
-
+  - [IT Written Capstone - Excellence Award](https://www.youtube.com)
+  - [Digital Forensics in Cybersecurity - Excellence Award](https://www.youtube.com)
+  - [Composition: Successful Self-Expression](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
