@@ -129,7 +129,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2> 📃Degrees</h2>
   
-  - [BSCSIA] ![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/Screenshot%202024-09-18%20185333.png)
+  - [BSCSIA - Honors: NSA Validated PoS and NSA CAE ] ![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/Screenshot%202024-09-18%20185333.png)
   - [MBA] Coming Soon 2024-2025..
 
 
