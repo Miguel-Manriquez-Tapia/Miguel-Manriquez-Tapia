@@ -127,6 +127,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Running Kali Linux on iPhone/iPad](https://www.youtube.com)
   - [Creating Engineering Blueprints (AutoCAD MEP 3D)](https://www.youtube.com)
 
+<h2> 📃Degrees</h2>
+  - <img src="https://img.shields.io/badge/-Bachelors_of_Science_Cybersecurity_and_Information_Assurance-4B9CD3?style=for-the-badge&logo=Western%20Governors%20University&logoColor=white" />
+
 <h2> 📃Certifications</h2>
 
   - <img src="https://img.shields.io/badge/-Bachelors_of_Science_Cybersecurity_and_Information_Assurance-4B9CD3?style=for-the-badge&logo=Western%20Governors%20University&logoColor=white" />
