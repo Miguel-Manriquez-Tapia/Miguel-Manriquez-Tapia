@@ -50,7 +50,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <b>SOC Projects</b>
   - [SOC Analyst Project](https://github.com/CyberSecAmericas/SOC-Analyst-Project)
   -  [Cybersecurity Home Lab (Splunk, Sysmon,Kali Linux, VirtualBox)](https://)
-  -
+
+- <b>Cyber Forensics Projects</b>
+  - [Autopsy Cyber Forensics Project](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/README.md)
+
+
+
 - <b>Microsoft</b>
   - [Active Directory Lab](https://github.com)
   - [Active Directory Project](https://github.com)
