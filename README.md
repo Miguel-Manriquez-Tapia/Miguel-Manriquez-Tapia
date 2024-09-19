@@ -57,7 +57,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Oracle_VM-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/-VMware_Workstation_17_Player-607078?style=for-the-badge&logo=VMware&logoColor=white" />
 
-
+### Cryptography Tools
+<img src="https://img.shields.io/badge/-OpenSSL-7D7D7D?style=for-the-badge&logo=OpenSSL&logoColor=white" />
 
 
 
@@ -77,6 +78,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-OWASP_ZAP-7C4DFF?style=for-the-badge&logo=OWASP&logoColor=white" />
 
 
+### Mobile Devices
+<img src="https://img.shields.io/badge/-iPhone-000000?style=for-the-badge&logo=Apple&logoColor=white" />
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+
+### Electrical Experience
+<img src="https://img.shields.io/badge/-Residential_120V-FFCC00?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-Commercial_240V-FF9900?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-Industrial_480V-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-12V_Low_Voltage-66CCFF?style=for-the-badge&logo=Electrical&logoColor=black" />
+
 
 <h2> Cybersecurity projects & more: 👨‍💻</h2>
 
@@ -86,7 +97,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <b>Cyber Forensics Projects</b>
   - [Autopsy Cyber Forensics Project](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/README.md)
-
 
 
 - <b>Microsoft</b>
@@ -119,7 +129,37 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2> 📃Certifications</h2>
 
-  - <img src="https://img.shields.io/badge/-Pentest%2B-4B275F?&style=for-the-badge&logo=Pentest%2B&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Bachelors_of_Science_Cybersecurity_and_Information_Assurance-4B9CD3?style=for-the-badge&logo=Western%20Governors%20University&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-FF6600?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_Cybersecurity_Analyst_CySA%2B-00A3E0?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_Network_Security_Professional-FF9900?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-DataQuest-1F6FEB?style=for-the-badge&logo=Dataquest&logoColor=white" />
+  - <img src="https://img.shields.io/badge/NSLS_Foundations_of_Leadership_Certificate-000000?style=for-the-badge&logo=The%20National%20Society%20of%20Leadership%20and%20Success&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_Project%2B-0056A0?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Mastercard_Cybersecurity_Job_Simulation-000000?style=for-the-badge&logo=Forage&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Linux_Essentials_Certification-FF9900?style=for-the-badge&logo=Linux%20Professional%20Institute&logoColor=white" />
+  - <img src="https://img.shields.io/badge/NSLS_Orientation_and_Leadership_Training_Certificate-000000?style=for-the-badge&logo=The%20National%20Society%20of%20Leadership%20and%20Success&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_Security%2B-003F6C?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Introduction_to_SQL-FF5722?style=for-the-badge&logo=Sololearn&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Secure_Infrastructure_Specialist-7D7D7D?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_Network%2B-0056A0?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-IT_Operations_Specialist-003F6C?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-CompTIA_A%2B-0056A0?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-ITIL_Foundation_Certificate_in_IT_Service_Management_V4-003B7D?style=for-the-badge&logo=PeopleCert&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+
+<h2> 📃Misc</h2>
+
+  - <img src="https://img.shields.io/badge/-Linux_Fundamentals_TryHackMe-00A300?style=for-the-badge&logo=Linux&logoColor=white" />
+
+
+
+
+
+  
+<h2> 📃Honor Society Membership</h2>
+  <img src="https://img.shields.io/badge/-Foundations_of_Leadership_Certificate-000000?style=for-the-badge&logo=The%20National%20Society%20of%20Leadership%20and%20Success&logoColor=white" />
+
 
     
 <h2> 🏆 Awards</h2>
