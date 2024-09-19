@@ -61,9 +61,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-OpenSSL-7D7D7D?style=for-the-badge&logo=OpenSSL&logoColor=white" />
 
 
-
 ### Identity and Access Management (IAM)
 <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+### Programming Languages
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" />
+
 
 ### Search and Analytics or Log Management (SEIM)
 <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
@@ -77,6 +82,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Pentest
 <img src="https://img.shields.io/badge/-OWASP_ZAP-7C4DFF?style=for-the-badge&logo=OWASP&logoColor=white" />
 
+### Basic Software
+<img src="https://img.shields.io/badge/-Microsoft_Office-217346?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
 
 ### Mobile Devices
 <img src="https://img.shields.io/badge/-iPhone-000000?style=for-the-badge&logo=Apple&logoColor=white" />
@@ -90,13 +98,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Ethernet_CAT_5_to_8_Install-FFCC00?style=for-the-badge&logo=Electrical&logoColor=black" />
 <img src="https://img.shields.io/badge/-Surge_Arrestors_MTS_ATS-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
 
+
 ### Blueprint Engineering Software and Schematics
 <img src="https://img.shields.io/badge/-AutoCAD MEP 3D-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
 <img src="https://img.shields.io/badge/-Draw.io-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
 
-### Basic Software
-<img src="https://img.shields.io/badge/-Microsoft_Office-217346?style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
 
 
 
