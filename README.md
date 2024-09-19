@@ -36,8 +36,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 
 
 </div>
@@ -87,6 +87,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Commercial_240V-FF9900?style=for-the-badge&logo=Electrical&logoColor=black" />
 <img src="https://img.shields.io/badge/-Industrial_480V-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
 <img src="https://img.shields.io/badge/-12V_Low_Voltage-66CCFF?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-Ethernet_CAT_5_to_8_Install-FFCC00?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-Surge_Arrestors_MTS_ATS-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
+
+### Blueprint Engineering Software and Schematics
+<img src="https://img.shields.io/badge/-AutoCAD MEP 3D-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
+<img src="https://img.shields.io/badge/-Draw.io-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
+
+### Basic Software
+<img src="https://img.shields.io/badge/-Microsoft_Office-217346?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+
+
+
+
+
+
+
 
 
 <h2> Cybersecurity projects & more: 👨‍💻</h2>
