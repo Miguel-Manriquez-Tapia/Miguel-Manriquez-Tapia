@@ -94,16 +94,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-iPhone-000000?style=for-the-badge&logo=Apple&logoColor=white" />
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
 
-### Electrical Experience
-<img src="https://img.shields.io/badge/-Residential_120V-FFCC00?style=for-the-badge&logo=Electrical&logoColor=black" />
-<img src="https://img.shields.io/badge/-Commercial_240V-FF9900?style=for-the-badge&logo=Electrical&logoColor=black" />
-<img src="https://img.shields.io/badge/-Industrial_480V-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
-<img src="https://img.shields.io/badge/-12V_Low_Voltage-66CCFF?style=for-the-badge&logo=Electrical&logoColor=black" />
-<img src="https://img.shields.io/badge/-Ethernet_CAT_5_to_8_Install-FFCC00?style=for-the-badge&logo=Electrical&logoColor=black" />
-<img src="https://img.shields.io/badge/-Surge_Arrestors_MTS_ATS-FF6600?style=for-the-badge&logo=Electrical&logoColor=black" />
-
-
-
 
 
 
