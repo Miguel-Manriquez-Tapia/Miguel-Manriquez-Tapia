@@ -182,7 +182,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     
 <h2> 🏆 Awards</h2>
 
-  - [IT Written Capstone - Excellence Award] ![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/x.jpg)
+  - [IT Capstone Written Project - Excellence Award] ![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/x.jpg)
   
   - [Digital Forensics in Cybersecurity - Excellence Award] ![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/Screenshot%202024-09-19%20024024.png)
   
