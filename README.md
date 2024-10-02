@@ -3,8 +3,6 @@
 
 <h2> I have recently completed my Bachelors of Science in Cybersecurity and Information Assurance.</h2>
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
