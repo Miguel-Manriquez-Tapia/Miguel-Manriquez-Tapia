@@ -8,7 +8,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Defense Attack and Analysis ELK Stack  | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -41,10 +41,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ### Operating Systems
-<img src="https://img.shields.io/badge/-Microsoft_Server-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali_Linux-5A2D81?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-AlmaLinux-003F6C?style=for-the-badge&logo=AlmaLinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux_Mint-87CF3F?style=for-the-badge&logo=LinuxMint&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
@@ -55,9 +53,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Oracle_VM-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/-VMware_Workstation_17_Player-607078?style=for-the-badge&logo=VMware&logoColor=white" />
 
-### Cryptography Tools
-<img src="https://img.shields.io/badge/-OpenSSL-7D7D7D?style=for-the-badge&logo=OpenSSL&logoColor=white" />
-
 
 ### Identity and Access Management (IAM)
 <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -65,13 +60,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Programming Languages
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" />
 
 
 ### Search and Analytics or Log Management (SEIM)
 <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ### Software Engineering IDE
@@ -111,21 +104,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 - <b>Microsoft</b>
-  - [Active Directory Lab](https://github.com)
-  - [Active Directory Project](https://github.com)
+  *In progress, not finished
+  - [Active Directory Lab](https://github.com) 
   - [Cybersecurity SOAR EDR Project)](https://github.com)
-  - [Active Directory Project](https://github.com)
-  - [Build Virtual Lab for Pentesting](https://github.com)
   - [Create SIEM & Deploy Threat Intelligence Feed](https://github.com)
 
-- <b>PowerShell</b>
-  - [PLACEHOLDER](https://github.com)
-
-- <b>Python</b>
-  - [PLACEHOLDER)](https://github.com)
-  - 
 - <b>Step by Step:</b>
-  
+  In progess, not finished
   - [Run a Virtual Machine Locally](https://github.com)
   - [Create an Authentication Certificate](https://github.com)
   - [Downgrade Encryption (Attack)](https://github.com)
