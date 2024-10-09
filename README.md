@@ -1,15 +1,15 @@
 <h1>Hello, I'm Miguel! <br/><a 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2> I have recently completed my Bachelors of Science in Cybersecurity and Information Assurance.</h2>
-## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+<h2>Bachelors of Science, Cybersecurity & Information Assurance.</h2>
+
+A dedicated and detail-oriented professional transitioning into the field of cybersecurity and IT.
 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Defense Attack and Analysis ELK Stack  | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Defense Attack and Analysis ELK Stack  | <a href="https://[google.com](https://github.com/Miguel-Manriquez-Tapia/SOC-Analyst-Project)"> SOC Analyst Lab</a>|
+| Cyber Forenesics Lab | <a href="https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project">Autopsy Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -27,7 +27,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Post Incident Analysis
  <img src="https://img.shields.io/badge/-Autopsy_Forensic_Tool-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAD////o6OiDg4NtbW3u7u7IyMj39/fW1tb5+fnz8/NISEjR0dGsrKx8fHzm5uaVlZVvRxgJAAAACXBIWXMAAABIAAAASABGyWs+AAAAMUlEQVQYlWNgwAL6/2HlZgZGKiAuDFXR2di7duB2YsiMUw5JAoLkoApRYMDANNAAGmXBsAebjC2kAAAAASUVORK5CYII=&logoColor=white" />
 <div>
-  
+
+    
+### Exploitation
+<img src="https://img.shields.io/badge/-Mythic-FF0000?&style=for-the-badge&logo=Mythic&logoColor=white" />
+
 
 
 </div>
@@ -43,7 +47,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Operating Systems
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali_Linux-5A2D81?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux_Mint-87CF3F?style=for-the-badge&logo=LinuxMint&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows_10-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-macOS_Sonoma-000000?style=for-the-badge&logo=Apple&logoColor=white" />
@@ -171,16 +174,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
   
   - [Composition: Successful Self-Expression]![image alt](https://github.com/Miguel-Manriquez-Tapia/Miguel-Manriquez-Tapia/blob/main/Screenshot%202024-09-19%20024059.png)
   
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/
-
