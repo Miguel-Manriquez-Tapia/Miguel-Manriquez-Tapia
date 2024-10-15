@@ -30,7 +30,7 @@ A dedicated and detail-oriented professional transitioning into the field of cyb
 <div>
 
     
-### Exploitation
+### Exploitation & Command/Control (C2)
 <img src="https://img.shields.io/badge/-Mythic-FF0000?&style=for-the-badge&logo=Mythic&logoColor=white" />
 
 
