@@ -13,7 +13,7 @@ A dedicated and detail-oriented professional transitioning into the field of cyb
 | Cybersecurity SOAR EDR Project                | [SOAR & EDR ](#) |
 | Cybersecurity Home Lab (Splunk, Sysmon,Kali Linux, VirtualBox) | [SOC Automation](#) |
 | Create SIEM & Deploy Threat Intelligence Feed | [SOC Deployment](#) |
-| Downgrade Encryption| [Negotiating Unsecure Encryption (#) |
+| Downgrade Encryption| [Negotiating Unsecure Encryption](#) |
 
 
 
