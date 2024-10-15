@@ -10,10 +10,11 @@ A dedicated and detail-oriented professional transitioning into the field of cyb
 | Defense, Attack, and Analysis - ELK Stack        | [SOC Analyst](https://github.com/Miguel-Manriquez-Tapia/SOC-Analyst-Project) |
 | Cyber-Forensics Project                         | [Cyber-Forensics](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project) |
 | Active Directory & Networking                          | [Active Directory](https://github.com/Miguel-Manriquez-Tapia/Active-Directory-Project) |
-| Incident Response Planning and Execution      | [SOC ](#) |
-| Cybersecurity SOAR EDR Project                | [SOC ](#) |
+| Cybersecurity SOAR EDR Project                | [SOAR & EDR ](#) |
 | Cybersecurity Home Lab (Splunk, Sysmon,Kali Linux, VirtualBox) | [SOC Automation](#) |
-| Create SIEM & Deploy Threat Intelligence Feed | [SOC ](#) |
+| Create SIEM & Deploy Threat Intelligence Feed | [SOC Deployment](#) |
+| Downgrade Encryption| [Negotiating Unsecure Encryption #) |
+
 
 
 ## Tools
