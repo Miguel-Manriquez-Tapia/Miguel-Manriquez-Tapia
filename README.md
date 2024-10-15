@@ -8,8 +8,8 @@ A dedicated and detail-oriented professional transitioning into the field of cyb
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Defense Attack and Analysis ELK Stack        | [SOC Analyst Lab](https://github.com/Miguel-Manriquez-Tapia/SOC-Analyst-Project) |
-| Cyber-Forensics Lab                          | [Autopsy Lab](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#) |
+| Cyber-Forensics Project                         | [Autopsy Lab](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project) |
+| Active Directory & Networking                          | [Autopsy Lab](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project) |
 | Incident Response Planning and Execution      | [SOC Automation Lab](#) |
 | Case Management with TheHive                  | [SOC Automation Lab](#) |
 | Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#) |
