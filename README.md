@@ -69,7 +69,7 @@ A dedicated and detail-oriented professional transitioning into the field of cyb
 ### Search and Analytics or Log Management (SEIM)
 <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+ 
 
 ### Software Engineering IDE
 <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=JetBrains&logoColor=white" />
