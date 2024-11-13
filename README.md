@@ -1,7 +1,7 @@
 <h1>Hello, I'm Miguel! <br/><a 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>Bachelors of Science, Cybersecurity & Information Assurance.</h2>
+<h2>Bachelor of Science, Cybersecurity & Information Assurance.</h2>
 
 A dedicated and detail-oriented professional transitioning into the field of cybersecurity and IT.
 
